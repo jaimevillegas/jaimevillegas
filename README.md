@@ -18,8 +18,16 @@
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" height="50" width="50">
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS3" height="50" width="50">
+  <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" height="50" width="50">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" height="50" width="50">
+      <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="Linux" height="50" width="50">
+    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="Arduino" height="50" width="70">
+      <img src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" alt="SOLIDWORKS" height="50" width="80">
+</p>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 
 <h2 align="center">My stats :man_technologist:</h2>
 
