@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello! I'm Jaime.
 
 <h2 align="center">You can reach me at :alien:</h2>
 
@@ -20,11 +20,22 @@
 <h2 align="center">My stack :man_technologist:</h2>
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+
+<h2 align="center">My stats :man_technologist:</h2>
+
+
 <p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=jaimevillegas&theme=gruvbox" alt="jaimevillegas :: Stats"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimevillegas&theme=gruvbox" />
+</p>
+
+
+
+
+
 
 <!--
 **jaimevillegas/jaimevillegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
