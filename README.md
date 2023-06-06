@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimevillegas&label=Profile%20views&color=cb2020&style=flat" alt="jaimevillegas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaimevillegas" alt="jaimevillegas" /></a> </p>
-
 - 🔭 I’m currently working on [a Full-stack spotify clone](https://github.com/jaimevillegas/spotify-clone/tree/project-setup)
 
 - 🌱 I’m currently learning **Ruby on Rails**
@@ -15,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/jaimevillegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jaimevillegas" height="30" width="40" /></a>
+<a href="https://dev.to/jaimevillegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jaimevillegas" height="30" width="40" /></a>
 <a href="https://twitter.com/jaimevillegazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaimevillegazz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/villegas0296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/villegas0296/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/janvil0296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/janvil0296/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/jaimevillegas296?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jaimevillegas296?hr_r=1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/villegas0296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="villegas0296" height="30" width="40" /></a>
+<a href="https://instagram.com/janvil0296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janvil0296" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jaimevillegas296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaimevillegas296" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
