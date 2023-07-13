@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimevillegas&label=Profile%20views&color=cb2020&style=flat" alt="jaimevillegas" /> </p>
 
-- 🔭 I’m currently working on [a Full-stack spotify clone](https://github.com/jaimevillegas/spotify-clone/tree/project-setup)
-
 - 🌱 I’m currently learning **Ruby on Rails**
 
 - 💬 Ask me about **ESP32, JavaScript**
