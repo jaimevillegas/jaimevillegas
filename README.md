@@ -5,13 +5,12 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 💬 Ask me about **ESP32, JavaScript**
+- 💬 Ask me about **ESP32, JavaScript**, **Engineering**, **Guitar and Music**
 
 - 📫 How to reach me **jaimevillegas296@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/jaimevillegas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jaimevillegas" height="30" width="40" /></a>
 <a href="https://twitter.com/jaimevillegazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaimevillegazz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/villegas0296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="villegas0296" height="30" width="40" /></a>
 <a href="https://instagram.com/janvil0296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="janvil0296" height="30" width="40" /></a>
