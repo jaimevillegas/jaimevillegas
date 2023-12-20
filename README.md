@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaime</h1>
-<h3 align="center">A Mechatronic Engineer and a Full-Stack Software Developer from Colombia</h3>
+<h3 align="center">A Mechatronic Engineer and a Front-End Software Developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimevillegas&label=Profile%20views&color=cb2020&style=flat" alt="jaimevillegas" /> </p>
 
