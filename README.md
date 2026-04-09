@@ -12,7 +12,7 @@
 
 Full-Stack Developer with 4+ years building production-grade web applications with React and Next.js. I've shipped 50+ projects for clients across SaaS, e-commerce, and industrial automation — and I care as much about maintainable architecture as I do about shipping fast.
 
-Most recently I led frontend development at **Skalar**, building an AI-powered workflow automation platform from scratch: a canvas-based interface with drag-and-drop data pipelines, real-time dashboards, and a conversational AI agent — using **Next.js, React Flow, Tailwind CSS, and Storybook**.
+Most recently I led frontend development of an **AI-powered workflow automation platform** from scratch: a canvas-based interface with drag-and-drop data pipelines, real-time dashboards, resizable panels, and a conversational AI agent — using **Next.js, React Flow, Tailwind CSS, and Storybook**.
 
 I also spent 8 months at **Outlier** training LLMs for code generation — evaluating 168K+ lines of AI-generated code using RLHF techniques. That experience gives me a rare perspective on what truly production-ready code looks like.
 
